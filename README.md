@@ -11,7 +11,6 @@ Now includes a secure **Login & Signup authentication system** for personalized 
 -  Clean and responsive user interface
 -  Fast performance and smooth interactions
 -  Web-based application accessible from any device
--  Deployed on Vercel for high availability
 -  Scalable and maintainable project structure
 
 ## Tech Stack
