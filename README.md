@@ -39,7 +39,7 @@ Follow the steps below to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://scrape-master-two.vercel.app/
+git clone https://github.com/AbheeshSM/Scrape-Master.git
 
 # Move into the project directory
 cd Scrape Master
